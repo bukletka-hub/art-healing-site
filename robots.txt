@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://art-healing.ca/sitemap.xml
